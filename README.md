@@ -1,0 +1,2 @@
+# smart-demo
+rust project
